@@ -16,5 +16,5 @@ A personal portfolio site created using **HTML**, **CSS**, and **JavaScript**. I
 - CSS3 (Flexbox + Media Queries)
 - JavaScript (for mobile menu toggle)
 
-## 📂 Folder Structure
+
 
